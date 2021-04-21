@@ -1,5 +1,7 @@
 *{margin:0;padding:0}
-body{display:flex;justify-content:center;align-items:center;min-height:100vh}
+
+body{
+  display:flex;justify-content:center;align-items:center;min-height:100vh}
 .loading{max-width:50%;line-height:1.4;font:size 1.2em;font-weight:bold;text-align:center}
 .loading__author{font-weight:normal;font-size:.9rem;color:rgba(189,189,189,1);margin:.6rem 0 2rem 0;display:block}
 @keyframes rotate{to{transform:rotate(1turn)}
